@@ -1,6 +1,6 @@
-site_name: 
-site_description: 
-site_url: 
+site_name: bookmarked-notes
+site_description: all my bookmarked
+site_url: https://djiwandou-p.io/bookmarked-notes
 
 theme:
     name: 'material'
