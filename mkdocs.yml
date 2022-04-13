@@ -1,6 +1,6 @@
 site_name: bookmarked-notes
 site_description: all my bookmarked
-site_url: https://djiwandou-p.io/bookmarked-notes
+site_url: https://djiwandou-p.github.io/bookmarked-notes
 
 theme:
     name: 'material'
